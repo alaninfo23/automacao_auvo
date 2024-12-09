@@ -37,18 +37,24 @@ A estrutura do projeto foi organizada seguindo a arquitetura Page Object Model (
 - **tests**: Contém os scripts de teste que validam o fluxo de cadastro e compra de produtos.
 - **package.json**: Arquivo de configuração que gerencia as dependências e scripts do projeto.
 - **README.md**: Este arquivo de documentação que fornece informações sobre o projeto.
-- *
 
-2. Instalar Dependências
+## Como Configurar e Executar o Projeto
+
+1. Clonar o repositório
+Clone este repositório para o seu ambiente local:
+git clone https://github.com/SEU_USUARIO/automacao-auvo.git
+cd automacao-auvo
+
+3. Instalar Dependências
 Instale as dependências do projeto utilizando o npm:
 npm install
 
-3. Executar os Testes
+4. Executar os Testes
 Para rodar os testes, use o comando abaixo:
 npx playwright test --headed
 O parâmetro --headed permite que os testes sejam executados com uma interface gráfica, para que você possa acompanhar as interações em tempo real.
 
-4. Executar Testes de Forma Específica
+5. Executar Testes de Forma Específica
 Se desejar executar um teste específico, você pode indicar o arquivo de teste:
 npx playwright test tests/cadastroECompra.spec.js --headed
 
