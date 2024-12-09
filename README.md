@@ -42,7 +42,7 @@ A estrutura do projeto foi organizada seguindo a arquitetura Page Object Model (
 
 1. Clonar o repositório
 Clone este repositório para o seu ambiente local:
-git clone https://github.com/SEU_USUARIO/automacao-auvo.git
+git clone https://github.com/alaninfo23/automacao-auvo.git
 cd automacao-auvo
 
 3. Instalar Dependências
