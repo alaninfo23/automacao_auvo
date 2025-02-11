@@ -1,4 +1,4 @@
-# Desafio Auvo - Automação de Testes Web
+# Automação de Testes Web
 
 Este repositório contém uma prova de conceito (POC) de automação de testes para validar o fluxo de cadastro e pesquisa de produtos em um site de e-commerce fictício [Sauce Demo](https://www.saucedemo.com/). O projeto foi implementado utilizando o Playwright para automação de testes em JavaScript, com a arquitetura Page Object Model (POM) para uma estrutura modular e manutenível.
 
