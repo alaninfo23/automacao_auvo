@@ -42,8 +42,8 @@ A estrutura do projeto foi organizada seguindo a arquitetura Page Object Model (
 
 1. Clonar o repositório
 Clone este repositório para o seu ambiente local:
-git clone https://github.com/alaninfo23/automacao-auvo.git
-cd automacao-auvo
+git clone https://github.com/alaninfo23/automacao-playwright.git
+cd automacao-playwright
 
 3. Instalar Dependências
 Instale as dependências do projeto utilizando o npm:
@@ -83,7 +83,7 @@ Este projeto de automação de testes com Playwright cobre o fluxo completo de c
 Link do Repositório
 O código pode ser encontrado no repositório público do GitHub:
 
-https://github.com/alaninfo23/automacao-auvo
+https://github.com/alaninfo23/automacao-playwright
 
 Autor: Jose Alan dos Santos Rocha
 Data: 09/12/2024
